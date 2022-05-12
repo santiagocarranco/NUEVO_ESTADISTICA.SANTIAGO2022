@@ -12,7 +12,7 @@ semana 2:
 
 semana 3: 
 
-+ :dart: 2/02/2022: sala de computo instalar credenciales  y proyecto.
++ dart: 2/02/2022: sala de computo instalar credenciales  y proyecto.
 + 03/02/2022: sala de computo revisar Lab 1 HW_01.
 
 semana 4:
