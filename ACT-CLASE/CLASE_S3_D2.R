@@ -1,8 +1,6 @@
- # MAGT
+ # SANTIAGO CARRANCO VALLADARES 
  # O3/02/2022
- # sesion semana 3 sala de computo 
-
-
+ # sesion semana 3: sala de computo 
 
 
  # operaciones basicas en R 
@@ -25,7 +23,7 @@
  
 
 
-# primera base de datos ---------------------------------------------------
+# primera base de datos 
 
  Ba <- c(1:5)
  h <- c(12, 13.1, 14.8, 16.3, 15.3)
@@ -40,7 +38,8 @@
  mean (inventario$DAP)
  mean (inventario$DC)
  
+# Agregar columna en inventario (dxh)
  
-# Graficas ----------------------------------------------------------------
+ inventario$dxh <- inventario$h * inventario$DAP
 
  
