@@ -1,6 +1,7 @@
- # MAG
+ # SANTIAGO CARRANCO 
  # semana 4 dia 2
  # descargar datos de internet
+
 
  url <- "http://www.profepa.gob.mx/innovaportal/file/7635/1/accionesInspeccionfo.csv"
  
