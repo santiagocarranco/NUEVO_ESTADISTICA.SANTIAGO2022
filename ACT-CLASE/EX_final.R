@@ -15,12 +15,10 @@ Pino <- PINO_ENCINO %>%
 Encino <- PINO_ENCINO %>%
   filter(Sp=="Encino")
 
-
-
 mean(PINO_ENCINO$Peso_gr)
 
-mean(Pino$peso_gr)
-mean(Encino$peso_gr)
+mean(Pino$Peso_gr)
+mean(Encino$Peso_gr)
 
 sum(Pino$Peso_gr^2)
 sum(Encino$Peso_gr)
@@ -29,7 +27,7 @@ boxplot(PINO_ENCINO$Peso_gr  ~ PINO_ENCINO$Sp,
         xlab="cuadros de madera",
         ylab="Peso(gr)")
  
-#Diferencias 
+......................................
 
 en <- mean(Encino$Peso_gr)
 pn <- mean(Pino$Peso_gr)
